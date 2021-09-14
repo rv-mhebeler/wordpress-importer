@@ -1,0 +1,15 @@
+{
+  "name": "rv-mhebeler/wp-importer",
+  "description": "Temporary wordpress-importer plugin",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.0"
+  },
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Matt Hebeler",
+      "email": "mhebeler@redventures.com"
+    }
+  ]
+}
