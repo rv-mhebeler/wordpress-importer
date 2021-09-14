@@ -1,5 +1,5 @@
 {
-  "name": "rv-mhebeler/wp-importer",
+  "name": "rv-mhebeler/wordpress-importer",
   "description": "Temporary wordpress-importer plugin",
   "type": "wordpress-plugin",
   "require": {
